@@ -75,8 +75,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ### Course
 ### Linked In- https://www.linkedin.com/learning/react-js-building-an-interface-8551484/why-react-is-so-important
 ### Thanks to the Instrucutor-
-####Ray Villalobos
-####Senior Staff Instructor at LinkedIn Learning
+#### Ray Villalobos
+#### Senior Staff Instructor at LinkedIn Learning
 
 ### IMAGES
 
