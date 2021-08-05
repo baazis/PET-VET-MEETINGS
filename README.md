@@ -72,13 +72,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-### Instructor
-
-**Ray Villalobos**
-
-_Senior Staff Instructor at LinkedIn Learning_
-
-Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/ray-villalobos?u=104).
-
-[lil-course-url]: https://www.linkedin.com/learning/react-js-building-an-interface-8551484
-[lil-thumbnail-url]: https://cdn.lynda.com/course/2880067/2880067-1619021943737-16x9.jpg
